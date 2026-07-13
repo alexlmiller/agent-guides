@@ -12,6 +12,7 @@ Each guide is a complete, standalone walkthrough that an agent (Claude, Codex, G
 | [drive-sync](./drive-sync/) | Google Drive backup to local storage or Seafile via rclone |
 | [gmail-sync](./gmail-sync/) | Gmail IMAP backup to local Maildir via offlineimap3 |
 | [paperless-ingestion](./paperless-ingestion/) | Paperless-ngx with Signal, email, and AI-powered document classification |
+| [fulcrum-node](./fulcrum-node/) | Private Bitcoin Core + Fulcrum Electrum server over Tailscale |
 
 ## How to use
 
